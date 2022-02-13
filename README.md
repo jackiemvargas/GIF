@@ -1,3 +1,5 @@
+#Gif
+
 <!DOCTYPE html>
 <!-- This is my own work. -->
 <html>
@@ -5,8 +7,6 @@
 <meta charset="utf-8"/>
 	<meta name="keywords" content="Bulldog, animateddog"/>
 
-
-<title>Animation Web Page</title>
 </head>
 <body bgcolor="gold"> <!-- rgb 256*256*256 = 16777216 possible colors! -->
 
